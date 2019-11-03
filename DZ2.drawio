@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="KejtgeAys5uGm8VwhgNw" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T14:50:09.276Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="zUAccMt66uVv2mMLmACK" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T14:51:50.433Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -134,13 +134,13 @@
         <mxCell id="CfolNxl_p7sKol7sSS_X-37" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" source="CfolNxl_p7sKol7sSS_X-34" target="hYaq0uTZQcr8mzzm78UU-1">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
-        <mxCell id="CfolNxl_p7sKol7sSS_X-34" value="Пузырьки" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+        <mxCell id="CfolNxl_p7sKol7sSS_X-34" value="Шелушение" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="1480" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-36" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" source="CfolNxl_p7sKol7sSS_X-35" target="hYaq0uTZQcr8mzzm78UU-1">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
-        <mxCell id="CfolNxl_p7sKol7sSS_X-35" value="Пузырьки" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+        <mxCell id="CfolNxl_p7sKol7sSS_X-35" value="Трещины" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="1340" y="-180" width="100" height="60"/>
         </mxCell>
       </root>
