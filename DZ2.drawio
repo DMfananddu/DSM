@@ -1,23 +1,23 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="Vss4_P8Gdu_y8GowzmZt" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:00:46.257Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="CpZ6LeU5bg0zLmeibjX_" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:02:52.040Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-1" value="Экзема" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="520" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="770" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-2" value="Акне" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="-40" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="60" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-3" value="Дерматит" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="100" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="200" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-4" value="Лишай" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="240" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="490" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-5" value="Герпес" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="380" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="345" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-4" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#CC00CC;" edge="1" source="hYaq0uTZQcr8mzzm78UU-7" target="hYaq0uTZQcr8mzzm78UU-2">
           <mxGeometry as="geometry" relative="1"/>
@@ -48,7 +48,7 @@
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-10" value="Жирная кожа" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="-190" y="-250" width="100" height="60"/>
+          <mxGeometry as="geometry" x="-230" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-3" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#e1d5e7;strokeColor=#CC00CC;" edge="1" source="hYaq0uTZQcr8mzzm78UU-11" target="hYaq0uTZQcr8mzzm78UU-2">
           <mxGeometry as="geometry" relative="1">
@@ -97,7 +97,7 @@
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-13" value="Зуд" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="500" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="490" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" edge="1" source="CfolNxl_p7sKol7sSS_X-14" target="hYaq0uTZQcr8mzzm78UU-4">
           <mxGeometry as="geometry" relative="1"/>
@@ -112,13 +112,13 @@
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-14" value="Сухая кожа" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="640" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="630" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-22" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" edge="1" source="CfolNxl_p7sKol7sSS_X-15" target="hYaq0uTZQcr8mzzm78UU-4">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-15" value="Сыпь" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="780" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="770" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-29" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" edge="1" source="CfolNxl_p7sKol7sSS_X-28" target="hYaq0uTZQcr8mzzm78UU-5">
           <mxGeometry as="geometry" relative="1"/>
@@ -127,22 +127,22 @@
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-28" value="Пузырьки" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="1060" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="910" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-37" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" source="CfolNxl_p7sKol7sSS_X-34" target="hYaq0uTZQcr8mzzm78UU-1">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-34" value="Шелушение" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="1340" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="1190" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-36" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" source="CfolNxl_p7sKol7sSS_X-35" target="hYaq0uTZQcr8mzzm78UU-1">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-35" value="Трещины" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="1200" y="-180" width="100" height="60"/>
+          <mxGeometry as="geometry" x="1050" y="-180" width="100" height="60"/>
         </mxCell>
         <mxCell id="CfolNxl_p7sKol7sSS_X-38" value="Чесотка" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="660" y="20" width="100" height="60"/>
+          <mxGeometry as="geometry" x="630" y="20" width="100" height="60"/>
         </mxCell>
       </root>
     </mxGraphModel>
