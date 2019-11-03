@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="3bHmNC1JL9kBj-IJXWik" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T16:38:21.073Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="Y2f1iYCkjG-0NsXd9D-r" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T16:40:26.911Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -168,8 +168,8 @@
         <mxCell id="qp7msJFwW9XQTL4Och8j-62" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="390" y="230" width="110" height="60"/>
         </mxCell>
-        <mxCell id="qp7msJFwW9XQTL4Och8j-63" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="300" y="100" width="110" height="60"/>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-63" value="Гормональные препараты" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="280" y="100" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-64" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="445" y="350" width="110" height="60"/>
