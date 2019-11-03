@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="OHrjhsHSFFi__mH-Jp9R" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T18:59:46.260Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="An7f5cqYuUdy2UVp6zn-" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T19:00:22.131Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -309,9 +309,6 @@
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-1" value="Скабициды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="695" y="367.5" width="110" height="60"/>
         </mxCell>
-        <mxCell id="iTaqGoaaW0DXPrz2RaX5-2" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="675" y="190" width="110" height="60"/>
-        </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-3" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="815" y="180" width="110" height="60"/>
         </mxCell>
@@ -329,9 +326,6 @@
         </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-8" value="Противогрибковые препараты" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="637.5" y="300" width="160" height="60"/>
-        </mxCell>
-        <mxCell id="iTaqGoaaW0DXPrz2RaX5-9" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="680" y="435" width="110" height="60"/>
         </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-10" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="820" y="425" width="110" height="60"/>
