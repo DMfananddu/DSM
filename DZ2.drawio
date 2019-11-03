@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="hpJeo-YGyspg0J3J6iCa" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:50:41.850Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="AjEU3jC7eQ6tjjx-BEdT" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:53:04.111Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -154,22 +154,22 @@
           <mxGeometry as="geometry" x="210" y="200" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-4" value="Ретиноиды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="445" y="200" width="105" height="60"/>
+          <mxGeometry as="geometry" x="445" y="200" width="95" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-5" value="Специальная терапия" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="45" y="290" width="115" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-6" value="Кремы" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="190" y="300" width="130" height="60"/>
+          <mxGeometry as="geometry" x="410" y="300" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-7" value="Мази" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="350" y="330" width="130" height="60"/>
+          <mxGeometry as="geometry" x="240" y="370" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-8" value="Гели" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="497.5" y="270" width="130" height="60"/>
+          <mxGeometry as="geometry" x="240" y="300" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-9" value="Витамины" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="510" y="350" width="130" height="60"/>
+          <mxGeometry as="geometry" x="410" y="370" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-10" value="Пероксид бензоила" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="160" y="110" width="90" height="60"/>
