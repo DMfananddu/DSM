@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="P4sIVqybFmYbu9QctshQ" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:40:55.448Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="GH7tUpHFoNM-FoR721N3" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T15:46:30.248Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -150,8 +150,26 @@
         <mxCell id="qp7msJFwW9XQTL4Och8j-2" value="Антибиотик" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="-70" y="180" width="100" height="60"/>
         </mxCell>
-        <mxCell id="qp7msJFwW9XQTL4Och8j-3" value="Акне" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="210" y="200" width="100" height="60"/>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-3" value="Гормональные препараты" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="210" y="200" width="130" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-4" value="Ретиноиды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="445" y="200" width="105" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-5" value="Специальная терапия" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="45" y="290" width="115" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-6" value="Кремы" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="190" y="300" width="130" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-7" value="Мази" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="350" y="330" width="130" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-8" value="Гели" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="497.5" y="270" width="130" height="60"/>
+        </mxCell>
+        <mxCell id="qp7msJFwW9XQTL4Och8j-9" value="Витамины" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
+          <mxGeometry as="geometry" x="510" y="350" width="130" height="60"/>
         </mxCell>
       </root>
     </mxGraphModel>
