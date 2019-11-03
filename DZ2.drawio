@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-11-03T12:25:35.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="SLEez-OUjLciDVHpLp2O" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-11-03T12:35:59.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tI8pq6uW9fktuBuZzLAN" pages="1">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
-    <mxGraphModel grid="1" dx="3118" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-5" value="Герпес" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
           <mxGeometry as="geometry" height="60" width="100" y="20" x="380"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-7" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-160" x="-10"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-8" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-170" x="130"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-9" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-280" x="-20"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-10" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-280" x="110"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-11" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-90" x="70"/>
+        </mxCell>
+        <mxCell id="hYaq0uTZQcr8mzzm78UU-12" value="Язвы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;">
+          <mxGeometry as="geometry" height="60" width="100" y="-220" x="50"/>
         </mxCell>
       </root>
     </mxGraphModel>
