@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" pages="1" etag="2d8puaH_WZb7uqWc51jH" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T19:23:36.542Z" host="www.draw.io">
+<mxfile type="github" version="12.1.9" pages="1" etag="f5TBaZRrN-gLRM0wBb4E" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-11-03T19:31:09.985Z" host="www.draw.io">
   <diagram id="rvXx9JwLdrE04M0KB4S3" name="Page-1">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1654" pageWidth="2336" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="2120" dx="3118">
       <root>
@@ -25,8 +25,10 @@
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-49" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0080;" edge="1" source="hYaq0uTZQcr8mzzm78UU-1" target="qp7msJFwW9XQTL4Och8j-63">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
-        <mxCell id="iTaqGoaaW0DXPrz2RaX5-50" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0080;" edge="1" source="qp7msJFwW9XQTL4Och8j-59" target="qp7msJFwW9XQTL4Och8j-70">
-          <mxGeometry as="geometry" relative="1"/>
+        <mxCell id="iTaqGoaaW0DXPrz2RaX5-50" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0080;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="hYaq0uTZQcr8mzzm78UU-1" target="qp7msJFwW9XQTL4Och8j-70">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="1004" y="80"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hYaq0uTZQcr8mzzm78UU-1" value="Экзема" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="770" y="20" width="100" height="60"/>
@@ -256,7 +258,7 @@
           <mxGeometry as="geometry" x="630" y="20" width="100" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-55" value="Антибиотики" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="140" y="120" width="110" height="60"/>
+          <mxGeometry as="geometry" x="215" y="250" width="110" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-57" value="Специальная терапия" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="-34" y="260" width="120" height="60"/>
@@ -268,7 +270,7 @@
           <mxGeometry as="geometry" x="140" y="290" width="70" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-61" value="Витамины" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="270" y="180" width="90" height="60"/>
+          <mxGeometry as="geometry" x="445" y="777" width="90" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-62" value="Ретиноиды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="-74" y="130" width="100" height="60"/>
@@ -283,31 +285,31 @@
           <mxGeometry as="geometry" x="185" y="440" width="130" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-67" value="Бакторициды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="420" y="130" width="110" height="60"/>
+          <mxGeometry as="geometry" x="-150" y="290" width="110" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-68" value="Кортикостероиды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="680" y="160" width="140" height="60"/>
+          <mxGeometry as="geometry" x="540" y="360" width="140" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-69" value="Негормональные препараты" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="320" y="520" width="150" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-70" value="Устранение раздражителя" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="315" y="300" width="135" height="60"/>
+          <mxGeometry as="geometry" x="406" y="330" width="128" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-71" value="Генотерапия" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
           <mxGeometry as="geometry" x="340" y="620" width="110" height="60"/>
         </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-1" value="Скабициды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="695" y="367.5" width="110" height="60"/>
+          <mxGeometry as="geometry" x="625" y="500" width="110" height="60"/>
         </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-4" value="Инсектициды" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="815" y="100" width="110" height="60"/>
+          <mxGeometry as="geometry" x="625" y="600" width="110" height="60"/>
         </mxCell>
         <mxCell id="iTaqGoaaW0DXPrz2RaX5-8" value="Противогрибковые препараты" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="637.5" y="300" width="160" height="60"/>
+          <mxGeometry as="geometry" x="460" y="560" width="160" height="60"/>
         </mxCell>
         <mxCell id="qp7msJFwW9XQTL4Och8j-59" value="Увлажняющие средства" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1">
-          <mxGeometry as="geometry" x="525" y="160" width="130" height="60"/>
+          <mxGeometry as="geometry" x="550" y="190" width="120" height="60"/>
         </mxCell>
         <mxCell id="5z-_mYSzoV1Wl2NccHzP-1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0080;" edge="1" source="hYaq0uTZQcr8mzzm78UU-1" target="qp7msJFwW9XQTL4Och8j-59">
           <mxGeometry as="geometry" relative="1">
