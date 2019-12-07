@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.8" host="www.draw.io" modified="2019-12-07T14:44:12.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="ZaL_C4fb_bJt41LJgS4A" pages="1">
+<mxfile type="github" version="12.3.8" host="www.draw.io" modified="2019-12-07T14:44:33.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="SAh3NFR6LNfL1cT1VF1s" pages="1">
   <diagram id="d5CMdZOocbE8XO5Xt-lS" name="Page-1">
     <mxGraphModel grid="1" dx="782" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="Aal0k1yeenBHTnhblUQM-1" value="&lt;b style=&quot;font-size: 15px&quot;&gt;8086&lt;/b&gt;&lt;br&gt;с 8 июня 1978 по 1990" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1">
           <mxGeometry as="geometry" x="380" y="200" width="80" height="80"/>
         </mxCell>
-        <mxCell id="Aal0k1yeenBHTnhblUQM-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;80188&lt;/b&gt;&lt;/font&gt;&lt;br&gt;в 1982" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1">
+        <mxCell id="Aal0k1yeenBHTnhblUQM-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;80188&lt;/b&gt;&lt;/font&gt;&lt;br&gt;с 1982" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1">
           <mxGeometry as="geometry" x="620" y="380" width="80" height="60"/>
         </mxCell>
         <mxCell id="Aal0k1yeenBHTnhblUQM-18" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=14;" edge="1" source="Aal0k1yeenBHTnhblUQM-3" target="Aal0k1yeenBHTnhblUQM-17">
