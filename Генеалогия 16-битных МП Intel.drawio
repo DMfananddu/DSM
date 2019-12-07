@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.8" host="www.draw.io" modified="2019-12-07T14:28:52.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="OQROKLma6-QEZfIeVO-M" pages="1">
+<mxfile type="github" version="12.3.8" host="www.draw.io" modified="2019-12-07T14:32:50.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="loUF9XKwRRVoxM6mGYty" pages="1">
   <diagram id="d5CMdZOocbE8XO5Xt-lS" name="Page-1">
     <mxGraphModel grid="1" dx="782" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="Aal0k1yeenBHTnhblUQM-18" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontSize=14;" edge="1" source="Aal0k1yeenBHTnhblUQM-3" target="Aal0k1yeenBHTnhblUQM-17">
           <mxGeometry as="geometry" relative="1"/>
         </mxCell>
-        <mxCell id="Aal0k1yeenBHTnhblUQM-3" value="80286" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1">
-          <mxGeometry as="geometry" x="500" y="260" width="80" height="40"/>
+        <mxCell id="Aal0k1yeenBHTnhblUQM-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;80286&lt;/b&gt;&lt;/font&gt; с 1 февраля 1982 по 1990-е" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=14;" vertex="1">
+          <mxGeometry as="geometry" x="500" y="240" width="80" height="80"/>
         </mxCell>
         <mxCell id="Aal0k1yeenBHTnhblUQM-9" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Aal0k1yeenBHTnhblUQM-4" target="Aal0k1yeenBHTnhblUQM-2">
           <mxGeometry as="geometry" relative="1"/>
