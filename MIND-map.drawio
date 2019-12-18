@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:08:59.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="C5F3No4Joi96YXi4Hhra" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:16:49.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="cTU0xJDzblANWXb_dumt" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -367,6 +367,21 @@
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-58" value="Ричард Спинелло" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
           <mxGeometry as="geometry" height="40" width="70" y="400" x="-260"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-1" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="60" width="100" y="90" x="750"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-2" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="60" width="100" y="220" x="740"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-3" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="60" width="100" y="290" x="975"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-4" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="60" width="100" y="130" x="1118"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-5" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="60" width="100" x="920"/>
         </mxCell>
       </root>
     </mxGraphModel>
