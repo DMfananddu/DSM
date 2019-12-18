@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:21:13.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="HZiO-MMqYcxWIoEOBgGd" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:25:14.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tQ_PhTFyInkJimNqm2el" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -87,8 +87,11 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-4" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#00CC00;">
           <mxGeometry as="geometry" height="60" width="100" y="140" x="560"/>
         </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-13" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="OkbivOEp-bvasjhVj9Z0-12" source="m4HbFXniarb6c-HBJ8Ap-5" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-5" value="Эволюция компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#9933FF;">
-          <mxGeometry as="geometry" height="60" width="100" y="320" x="220"/>
+          <mxGeometry as="geometry" height="60" width="100" y="320" x="210"/>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-42" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="m4HbFXniarb6c-HBJ8Ap-40" source="m4HbFXniarb6c-HBJ8Ap-6" edge="1">
           <mxGeometry as="geometry" relative="1"/>
@@ -402,6 +405,9 @@
         </mxCell>
         <mxCell id="OkbivOEp-bvasjhVj9Z0-5" value="Уолтэр Менер в середине 1970-х:&amp;nbsp;область,&lt;br&gt;имеющая дело с этическими проблемами, которые усугубляются, трансформируются или создаются компьютерными технологиями" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="70" width="300" y="40" x="930"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-12" value="Теория о том, что термин&lt;br&gt;&quot;компьютерная этика&quot; перестанет обозначать отдельную предметную область, т.к. люди станут воспринимать её предмет как часть обычной жизни" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#CC99FF;strokeColor=#000000;">
+          <mxGeometry as="geometry" height="80" width="280" y="430" x="120"/>
         </mxCell>
       </root>
     </mxGraphModel>
