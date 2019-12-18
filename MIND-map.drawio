@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T16:50:08.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="m38WUv31jJ8u9jNemWAF" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T16:52:06.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="hkxc2PM-rHFniYvDpNtC" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -124,20 +124,20 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-30" value="Норберт Винер как&amp;nbsp; основоположник компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="-70"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="60" width="100" y="440" x="360"/>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="80" y="440" x="370"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="60" width="100" y="440" x="720"/>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="120" y="440" x="735"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="&lt;span style=&quot;display: inline ; float: none ; background-color: rgb(248 , 249 , 250) ; color: transparent ; font-family: monospace ; font-size: 0px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: nowrap ; word-break: break-all ; word-spacing: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20parent%3D%221%22%20vertex%3D%221%22%20style%3D%22strokeWidth%3D2%3Bhtml%3D1%3Bshape%3Dmxgraph.flowchart.terminator%3BwhiteSpace%3Dwrap%3B%22%3E%3CmxGeometry%20as%3D%22geometry%22%20height%3D%2260%22%20width%3D%22100%22%20y%3D%22400%22%20x%3D%22390%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="60" width="100" y="440" x="240"/>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="130" y="440" x="220"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="60" width="100" y="440" x="480"/>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="110" y="440" x="475"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="60" width="100" y="440" x="600"/>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="440" x="610"/>
         </mxCell>
       </root>
     </mxGraphModel>
