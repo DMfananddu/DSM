@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:18:46.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="lKwvkhueZw1mEcDdF_SK" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:19:53.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="RsadAb2G9SjaHTQAK1mm" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -377,8 +377,8 @@
         <mxCell id="OkbivOEp-bvasjhVj9Z0-2" value="Джеймс Мур в середина 1980-х:&lt;br&gt;область, которая занимается изучением природы компьютерных технологий и их социального влияния, а также формулированием и обоснованием принципов этичного использования&lt;br&gt;таких технологий" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="120" width="250" y="220" x="650"/>
         </mxCell>
-        <mxCell id="OkbivOEp-bvasjhVj9Z0-3" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
-          <mxGeometry as="geometry" height="60" width="100" y="290" x="975"/>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-3" value="Дональд Готтербарн в 1990-е:&amp;nbsp;область профессиональной этики, которая занимается, прежде всего, стандартами практики и кодексами поведения профессионалов в сфере информационных технологий" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="80" width="290" y="270" x="920"/>
         </mxCell>
         <mxCell id="OkbivOEp-bvasjhVj9Z0-4" value="Дебора Джонсон в середине 1980-х:&amp;nbsp;область,&lt;br&gt;изучающая способы, при помощи которых компьютеры по-новому ставят стандартные моральные проблемы и дилеммы, обостряя старые проблемы и вынуждая применять общепринятые нравственные нормы к неизвестной области" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="110" width="328" y="120" x="920"/>
