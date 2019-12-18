@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:11:34.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="iUurFBXHzCHGnZEyxyFK" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:14:43.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="m-dWYqe9Ef1lwZPk_qRw" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -142,20 +142,17 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-47" value="Предсказатель «второй промышленной революции»" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="60" width="130" y="-220" x="-110"/>
         </mxCell>
-        <mxCell id="SRQ7N_bruoOHTrNDYPCM-1" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="40" width="80" y="-150" x="-150"/>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-1" value="&quot;Отец Кибернетики&quot;" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="40" width="90" y="-140" x="-200"/>
         </mxCell>
-        <mxCell id="SRQ7N_bruoOHTrNDYPCM-2" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="40" width="80" y="-300" x="-10"/>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-2" value="Исследовал способы&lt;br&gt;влияния информационных и коммуникационных технологий на фундаментальные человеческие ценности" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="80" width="190" y="-330" x="-20"/>
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-3" value="Видел необходимость&amp;nbsp;программировать работу машин, принимающих решения, таким образом, чтобы они действовали в соответствии с некоторым кодексом этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="100" width="220" y="-210" x="70"/>
         </mxCell>
-        <mxCell id="SRQ7N_bruoOHTrNDYPCM-4" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="40" width="80" y="-280" x="140"/>
-        </mxCell>
-        <mxCell id="SRQ7N_bruoOHTrNDYPCM-5" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="40" width="80" y="-320" x="-140"/>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-5" value="Предсказал появление&lt;br&gt;множества машин, которые будут самостоятельно учиться, рассуждать и принимать решения" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="70" width="220" y="-310" x="-270"/>
         </mxCell>
       </root>
     </mxGraphModel>
