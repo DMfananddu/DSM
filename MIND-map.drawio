@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:03:23.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Z60ongcpey9_zygOe9Mu" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:04:11.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="oqQsX6-UhXcjjwlHYhx9" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -88,55 +88,55 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-6" value="Основные проблемы компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#3399FF;">
           <mxGeometry as="geometry" height="60" width="100" y="320" x="480"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-12" value="1960-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-12" value="1960-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="60"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-13" value="2000-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-13" value="2000-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="300"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-14" value="1970-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-14" value="1970-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="120"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-15" value="1940-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-15" value="1940-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-16" value="1980-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-16" value="1980-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="180"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-17" value="1990-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-17" value="1990-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="240"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-25" value="Методология Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-25" value="Методология Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="110" y="-100" x="90"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-26" value="Норберт Винер о человеческих ценностях и смысле жизни" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-26" value="Норберт Винер о человеческих ценностях и смысле жизни" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="220"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-27" value="Ключевые этические принципы Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-27" value="Ключевые этические принципы Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="380"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-28" value="Стратегии этического анализа Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-28" value="Стратегии этического анализа Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="540"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-29" value="Предвидение Норбертом Винером появления этических&lt;br&gt;проблем, связанных с глобальными сетями" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-29" value="Предвидение Норбертом Винером появления этических&lt;br&gt;проблем, связанных с глобальными сетями" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="190" y="-100" x="700"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-30" value="Норберт Винер как&amp;nbsp; основоположник компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-30" value="Норберт Винер как&amp;nbsp; основоположник компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="-70"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="80" y="440" x="590"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="120" y="440" x="955"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="130" y="440" x="440"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="110" y="440" x="695"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="100" y="440" x="830"/>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-47" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
