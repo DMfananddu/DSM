@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:16:49.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="cTU0xJDzblANWXb_dumt" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:12:40.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="_3xKazrnDyk0eFiqL3aL" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-3" value="Этапы развития компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FF0000;">
           <mxGeometry as="geometry" height="60" width="100" y="140" x="140"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-7" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OkbivOEp-bvasjhVj9Z0-1" source="m4HbFXniarb6c-HBJ8Ap-4" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-4" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#00CC00;">
           <mxGeometry as="geometry" height="60" width="100" y="140" x="560"/>
@@ -368,8 +371,8 @@
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-58" value="Ричард Спинелло" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;">
           <mxGeometry as="geometry" height="40" width="70" y="400" x="-260"/>
         </mxCell>
-        <mxCell id="OkbivOEp-bvasjhVj9Z0-1" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
-          <mxGeometry as="geometry" height="60" width="100" y="90" x="750"/>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-1" value="Норберт Винер в 1950-е:&amp;nbsp;влияния&lt;br&gt;информационной технологии на человеческие ценности, такие как здоровье, богатство, возможности, свобода, демократия, знания, приватность, безопасность,&lt;br&gt;самореализация и т. д." parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="100" width="280" y="10" x="640"/>
         </mxCell>
         <mxCell id="OkbivOEp-bvasjhVj9Z0-2" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="100" y="220" x="740"/>
