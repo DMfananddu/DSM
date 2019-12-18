@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T15:39:21.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="rarr5l2boMbA7ny3S1qy" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T16:35:39.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="wIemsAIWeeCC1mubzQxV" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="782" dy="466" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -6,6 +6,21 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Этапы развития и основные проблемы компьютерной этики&lt;/font&gt;" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="80" width="160" y="160" x="320"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-2" value="Возникновение компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="260" x="320"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-3" value="Этапы развития компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="340" x="320"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-4" value="Определения компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="420" x="320"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-5" value="Эволюция компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="500" x="320"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-6" value="Основные проблемы компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="60" width="100" y="580" x="320"/>
         </mxCell>
       </root>
     </mxGraphModel>
