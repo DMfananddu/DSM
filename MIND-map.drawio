@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T16:58:31.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="I6xwxbqm2fsd0UT-WhLE" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:03:11.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="E5R4FdREAktPOYh280vq" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -124,19 +124,19 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-30" value="Норберт Винер как&amp;nbsp; основоположник компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="-70"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="60" width="80" y="440" x="590"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="60" width="120" y="440" x="955"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="60" width="130" y="440" x="440"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="60" width="110" y="440" x="695"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="60" width="100" y="440" x="830"/>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-47" value="Отец Кибернетики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;">
