@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:02:02.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="29XGgrLT0RTBPW5XTt6Y" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:04:59.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="wxvTY0eVM1V4I0273HgJ" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -107,6 +107,30 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-12" value="1960-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="80"/>
         </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-65" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-56" source="m4HbFXniarb6c-HBJ8Ap-13" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="380" x="9"/>
+              <mxPoint y="380" x="-60"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-66" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-57" source="m4HbFXniarb6c-HBJ8Ap-13" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="380" x="9"/>
+              <mxPoint y="380" x="-145"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-67" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-58" source="m4HbFXniarb6c-HBJ8Ap-13" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="380" x="9"/>
+              <mxPoint y="380" x="-225"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-13" value="2000-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="400"/>
         </mxCell>
@@ -148,6 +172,30 @@
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-16" value="1980-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="240"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-62" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-51" source="m4HbFXniarb6c-HBJ8Ap-17" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="300" x="9"/>
+              <mxPoint y="300" x="-55"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-63" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-54" source="m4HbFXniarb6c-HBJ8Ap-17" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="300" x="9"/>
+              <mxPoint y="300" x="-140"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-64" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-55" source="m4HbFXniarb6c-HBJ8Ap-17" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="300" x="9"/>
+              <mxPoint y="300" x="-230"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-17" value="1990-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="320"/>
@@ -313,6 +361,12 @@
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-56" value="Джерен Ван ден Ховен" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="400" x="-100"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-57" value="Герман Тавани" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="50" y="400" x="-170"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-58" value="Ричард Спинелло" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="70" y="400" x="-260"/>
         </mxCell>
       </root>
     </mxGraphModel>
