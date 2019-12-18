@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:59:31.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="qkwOWJT05ObVKt0BAgov" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T18:02:02.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="29XGgrLT0RTBPW5XTt6Y" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint y="220" x="9"/>
-              <mxPoint y="220" x="-126"/>
+              <mxPoint y="220" x="-134"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -142,7 +142,7 @@
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint y="220" x="9"/>
-              <mxPoint y="220" x="-211"/>
+              <mxPoint y="220" x="-229"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -297,10 +297,22 @@
           <mxGeometry as="geometry" height="40" width="57.5" y="240" x="-77.5"/>
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-43" value="Дебора Джонсон" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
-          <mxGeometry as="geometry" height="40" width="67.5" y="240" x="-160"/>
+          <mxGeometry as="geometry" height="40" width="67.5" y="240" x="-167.5"/>
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-47" value="Террелл Уорд Бинум" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
-          <mxGeometry as="geometry" height="40" width="77.5" y="240" x="-250"/>
+          <mxGeometry as="geometry" height="40" width="77.5" y="240" x="-267.5"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-51" value="Симон Роджерсон" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="70" y="320" x="-90"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-54" value="Лучано Флориди" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="60" y="320" x="-170"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-55" value="Хелен Ниссенбаум" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="80" y="320" x="-270"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-56" value="Джерен Ван ден Ховен" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="80" y="400" x="-100"/>
         </mxCell>
       </root>
     </mxGraphModel>
