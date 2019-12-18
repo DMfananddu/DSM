@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:44:27.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="gsNhh3i4WrFswCq-xS6K" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:46:59.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="PGYDr0Ov6WnvvXR2Mb4O" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -145,6 +145,12 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-28" value="Стратегии этического анализа Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="620"/>
         </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-32" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-30" source="m4HbFXniarb6c-HBJ8Ap-29" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-33" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-31" source="m4HbFXniarb6c-HBJ8Ap-29" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-29" value="Предвидение Норбертом Винером появления этических&lt;br&gt;проблем, связанных с глобальными сетями" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="190" y="-100" x="805"/>
         </mxCell>
@@ -225,6 +231,9 @@
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-30" value="Создание глобальной информационной сети, где машины и люди повязаны друг с другом неразрывно" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
           <mxGeometry as="geometry" height="90" width="150" y="-210" x="845"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-31" value="Появление&lt;br&gt;возможности человеку &quot;существовать повсюду&quot; благодаря появлению глобальной коммуникационной&lt;br&gt;сети" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+          <mxGeometry as="geometry" height="100" width="145" y="-330" x="850"/>
         </mxCell>
       </root>
     </mxGraphModel>
