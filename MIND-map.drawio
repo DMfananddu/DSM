@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:37:40.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="BT8KHej3sDNp_ETz-mY6" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:39:21.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="-w0G42r2G_YJqL_BB_e0" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -133,6 +133,15 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-27" value="Ключевые этические принципы Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="440"/>
         </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-27" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-24" source="m4HbFXniarb6c-HBJ8Ap-28" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-28" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-25" source="m4HbFXniarb6c-HBJ8Ap-28" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-29" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-26" source="m4HbFXniarb6c-HBJ8Ap-28" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-28" value="Стратегии этического анализа Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="620"/>
         </mxCell>
@@ -205,14 +214,14 @@
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-21" value="Считал необходимым минимизировать вмешательство государства в жизнь человека и сформулировал принцип минимального нарушения свободы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
           <mxGeometry as="geometry" height="70" width="280" y="-290" x="300"/>
         </mxCell>
-        <mxCell id="SRQ7N_bruoOHTrNDYPCM-24" value="3 принципа справедливости" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
-          <mxGeometry as="geometry" height="50" width="100" y="-170" x="660"/>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-24" value="Совершенствование мира при помощи информационных технологий" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+          <mxGeometry as="geometry" height="60" width="150" y="-180" x="660"/>
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-25" value="Идентификация этических проблем, порождённых информационными технологиями" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
-          <mxGeometry as="geometry" height="80" width="130" y="-270" x="660"/>
+          <mxGeometry as="geometry" height="80" width="130" y="-280" x="660"/>
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-26" value="Влияние информационных технологий на человеческие ценности" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
-          <mxGeometry as="geometry" height="60" width="170" y="-350" x="625"/>
+          <mxGeometry as="geometry" height="60" width="170" y="-360" x="660"/>
         </mxCell>
       </root>
     </mxGraphModel>
