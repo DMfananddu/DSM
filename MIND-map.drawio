@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:25:14.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="tQ_PhTFyInkJimNqm2el" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T19:29:58.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="b6gcdVlkl2hEVUA9gDNs" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -289,19 +289,25 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-30" value="Норберт Винер как&amp;nbsp; основоположник компьютерной этики" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="-70"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-37" value="Этичность поведения в Интернете" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#99CCFF;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="80" y="440" x="590"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-38" value="Профессиональная ответственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#99CCFF;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="120" y="440" x="955"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-39" value="Информационная и коммуникационная приватность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#99CCFF;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="130" y="440" x="440"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-40" value="Интеллектуальная собственность" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#99CCFF;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="110" y="440" x="695"/>
         </mxCell>
-        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;">
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-16" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OkbivOEp-bvasjhVj9Z0-14" source="m4HbFXniarb6c-HBJ8Ap-41" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-17" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OkbivOEp-bvasjhVj9Z0-15" source="m4HbFXniarb6c-HBJ8Ap-41" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="m4HbFXniarb6c-HBJ8Ap-41" value="Социально-правовые проблемы ИКТ" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#99CCFF;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="100" y="440" x="830"/>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-47" value="Предсказатель «второй промышленной революции»" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
@@ -408,6 +414,12 @@
         </mxCell>
         <mxCell id="OkbivOEp-bvasjhVj9Z0-12" value="Теория о том, что термин&lt;br&gt;&quot;компьютерная этика&quot; перестанет обозначать отдельную предметную область, т.к. люди станут воспринимать её предмет как часть обычной жизни" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#CC99FF;strokeColor=#000000;">
           <mxGeometry as="geometry" height="80" width="280" y="430" x="120"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-14" value="Использование компьютеров на рабочем месте" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+          <mxGeometry as="geometry" height="60" width="100" y="520" x="740"/>
+        </mxCell>
+        <mxCell id="OkbivOEp-bvasjhVj9Z0-15" value="Цифровое неравенство" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+          <mxGeometry as="geometry" height="60" width="80" y="520" x="920"/>
         </mxCell>
       </root>
     </mxGraphModel>
