@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:53:19.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="492h83A1u-_dngzZRiKu" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:56:10.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="zXh7Hh_-pi0F1LOGEF6v" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -121,6 +121,22 @@
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-15" value="1940-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-44" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-42" source="m4HbFXniarb6c-HBJ8Ap-16" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="170" x="9"/>
+              <mxPoint y="170" x="-49"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-45" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-43" source="m4HbFXniarb6c-HBJ8Ap-16" edge="1">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="170" x="9"/>
+              <mxPoint y="170" x="-126"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-16" value="1980-е годы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="80" y="180"/>
@@ -268,6 +284,12 @@
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-37" value="Уолтер Мэнер" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="40" width="57.5" y="120" x="-77.5"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-42" value="Джеймс Мур" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="57.5" y="180" x="-77.5"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-43" value="Дебора Джонсон" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;">
+          <mxGeometry as="geometry" height="40" width="67.5" y="180" x="-160"/>
         </mxCell>
       </root>
     </mxGraphModel>
