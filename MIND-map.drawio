@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:31:13.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="vC5EzRyyCBkUMBQHmO2l" pages="1">
+<mxfile type="github" version="12.4.3" host="www.draw.io" modified="2019-12-18T17:34:17.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="dj6FVNclhvJbQ8Jvm7do" pages="1">
   <diagram id="Xce3-qtlXA6PK7jgvRLK" name="Page-1">
     <mxGraphModel grid="1" dx="3118" dy="2120" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -124,6 +124,12 @@
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-26" value="Норберт Винер о человеческих ценностях и смысле жизни" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="260"/>
         </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-22" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-20" source="m4HbFXniarb6c-HBJ8Ap-27" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-23" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="SRQ7N_bruoOHTrNDYPCM-21" source="m4HbFXniarb6c-HBJ8Ap-27" edge="1">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
         <mxCell id="m4HbFXniarb6c-HBJ8Ap-27" value="Ключевые этические принципы Норберта Винера" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;">
           <mxGeometry as="geometry" height="60" width="140" y="-100" x="440"/>
         </mxCell>
@@ -192,6 +198,12 @@
         </mxCell>
         <mxCell id="SRQ7N_bruoOHTrNDYPCM-17" value="Цель человеческой жизни&lt;br&gt;заключается в реализации своего человеческого потенциала полностью в широком разнообразии и возможности действий" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
           <mxGeometry as="geometry" height="80" width="240" y="-200" x="210"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-20" value="3 принципа справедливости" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+          <mxGeometry as="geometry" height="50" width="100" y="-170" x="480"/>
+        </mxCell>
+        <mxCell id="SRQ7N_bruoOHTrNDYPCM-21" value="Считал необходимым минимизировать вмешательство государства в жизнь человека и сформулировал принцип минимального нарушения свободы" parent="1" vertex="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;">
+          <mxGeometry as="geometry" height="70" width="280" y="-290" x="300"/>
         </mxCell>
       </root>
     </mxGraphModel>
