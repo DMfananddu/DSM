@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T18:41:26.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="wSftOHN_u2uEZMXkb7Te" version="13.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-21T18:43:39.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="0uZXQoUQ3R3mqWYF9pel" version="13.0.0" type="github">
   <diagram id="C8R9k2zOfA8WFcOZhvsS" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZaFLw7-rgEEwj0TYIEeE-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Moscow&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="190" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZaFLw7-rgEEwj0TYIEeE-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Saint-Petersburg&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="250" y="80" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaFLw7-rgEEwj0TYIEeE-4" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Sochi&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaFLw7-rgEEwj0TYIEeE-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Moscow&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaFLw7-rgEEwj0TYIEeE-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Kaliningrad&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaFLw7-rgEEwj0TYIEeE-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Kazan&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="334" width="56" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
