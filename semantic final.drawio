@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T15:18:05.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="AtcwEsL3WNb7vl7hR2Ig" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-28T15:22:05.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="0431gTny9HGnf4U8xbPv" version="13.1.5" type="github">
   <diagram id="GbTZ_QaD-Nzlnn6_boQo" name="Page-1">
-    <mxGraphModel dx="1303" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="WhjTUCaELtUEvIj31jTc-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhjTUCaELtUEvIj31jTc-8" target="WhjTUCaELtUEvIj31jTc-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WhjTUCaELtUEvIj31jTc-11" value="Сколько раз?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-10">
+        <mxCell id="WhjTUCaELtUEvIj31jTc-11" value="Итераций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-10">
           <mxGeometry x="-0.4378" y="4" relative="1" as="geometry">
             <mxPoint x="11.67" y="10.85" as="offset" />
           </mxGeometry>
@@ -38,6 +38,14 @@
         <mxCell id="WhjTUCaELtUEvIj31jTc-20" value="Субъект" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-19">
           <mxGeometry x="0.443" y="-3" relative="1" as="geometry">
             <mxPoint x="22.14" y="-6.71" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhjTUCaELtUEvIj31jTc-8" target="WhjTUCaELtUEvIj31jTc-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-30" value="Время" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-29">
+          <mxGeometry x="-0.297" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WhjTUCaELtUEvIj31jTc-8" value="Сорить" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -67,7 +75,7 @@
         <mxCell id="WhjTUCaELtUEvIj31jTc-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhjTUCaELtUEvIj31jTc-12" target="WhjTUCaELtUEvIj31jTc-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WhjTUCaELtUEvIj31jTc-26" value="Сколько раз?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-25">
+        <mxCell id="WhjTUCaELtUEvIj31jTc-26" value="Итераций" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-25">
           <mxGeometry x="-0.4758" y="3" relative="1" as="geometry">
             <mxPoint x="21.48" y="-6.45" as="offset" />
           </mxGeometry>
@@ -88,6 +96,20 @@
         </mxCell>
         <mxCell id="WhjTUCaELtUEvIj31jTc-22" value="Пляж" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="575" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WhjTUCaELtUEvIj31jTc-28" target="WhjTUCaELtUEvIj31jTc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-34" value="Степень" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WhjTUCaELtUEvIj31jTc-33">
+          <mxGeometry x="0.4963" y="-4" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-28" value="Прошлое" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WhjTUCaELtUEvIj31jTc-32" value="Неизвестно" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
